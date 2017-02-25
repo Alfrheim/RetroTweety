@@ -62,3 +62,8 @@ Details
         quit: quit
         
         help: help
+
+#HOW TO RUN
+From project directory:
+> mvn clean install
+> java -jar target/retro-tweety-1.0-SNAPSHOT.jar
